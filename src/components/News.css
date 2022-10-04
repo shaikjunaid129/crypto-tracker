@@ -1,0 +1,10 @@
+.Wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.css-1ri6ub7-MuiPaper-root-MuiCard-root {
+    padding: 18px 13px;
+}
